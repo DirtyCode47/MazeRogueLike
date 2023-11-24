@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            MazeGenerator mazeGenerator = new MazeGenerator(23, 23);
+            mazeGenerator.GenerateMaze();
+            mazeGenerator.PrintMaze();
         }
     }
 }

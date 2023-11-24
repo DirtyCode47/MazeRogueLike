@@ -1,0 +1,15 @@
+C:\Git_projects\MazeRogueLike\MazeRogueLike\bin\Debug\net8.0\MazeRogueLike.exe
+C:\Git_projects\MazeRogueLike\MazeRogueLike\bin\Debug\net8.0\MazeRogueLike.deps.json
+C:\Git_projects\MazeRogueLike\MazeRogueLike\bin\Debug\net8.0\MazeRogueLike.runtimeconfig.json
+C:\Git_projects\MazeRogueLike\MazeRogueLike\bin\Debug\net8.0\MazeRogueLike.dll
+C:\Git_projects\MazeRogueLike\MazeRogueLike\bin\Debug\net8.0\MazeRogueLike.pdb
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\MazeRogueLike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\MazeRogueLike.AssemblyInfoInputs.cache
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\MazeRogueLike.AssemblyInfo.cs
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\MazeRogueLike.csproj.CoreCompileInputs.cache
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\MazeRogueLike.sourcelink.json
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\MazeRogueLike.dll
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\refint\MazeRogueLike.dll
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\MazeRogueLike.pdb
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\MazeRogueLike.genruntimeconfig.cache
+C:\Git_projects\MazeRogueLike\MazeRogueLike\obj\Debug\net8.0\ref\MazeRogueLike.dll
