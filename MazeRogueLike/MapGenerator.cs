@@ -16,8 +16,8 @@ namespace MazeRogueLike
         private Random random = new Random();
 
         private Player player;
-        private MeleeEnemy meleeEnemy;
-        private ArcherEnemy archerEnemy;
+        private Enemy meleeEnemy;
+        private Enemy archerEnemy;
         private List<Arrow> arrows;
 
         public MapGenerator(int width, int height)

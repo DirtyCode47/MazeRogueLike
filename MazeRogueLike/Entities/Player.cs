@@ -6,20 +6,6 @@ using System.Threading.Tasks;
 
 namespace MazeRogueLike.Entities
 {
-
-
-    //public class Player : Entity
-    //{
-    //    public Player()
-    //    {
-    //        Symbol = 'P';
-    //        IsDead = false;
-    //    }
-
-    //    public bool IsDead { get; set; }
-    //}
-
-
     public class Player : Entity
     {
         public Player()
@@ -27,9 +13,8 @@ namespace MazeRogueLike.Entities
             Symbol = 'P';
             IsDead = false;
         }
-
+        public int AttackPower { get; set; } = 2; // Сила атаки игрока
+        public int Health { get; set; } = 10; // Здоровье игрока
         public bool IsDead { get; set; }
     }
-
-
 }
