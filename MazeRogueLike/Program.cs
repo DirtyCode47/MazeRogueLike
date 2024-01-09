@@ -4,9 +4,8 @@
     {
         static void Main(string[] args)
         {
-            MapGenerator mapGenerator = new MapGenerator(23, 23);
-            mapGenerator.StartGame();
-
+            var game = new Game();
+            game.Run();
         }
     }
 }

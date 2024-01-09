@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MazeRogueLike")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af56f88606a7de7e6876041c39980e32c4ff5a1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+452230da0358386e49331bf0db6fdc0e4eedba8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MazeRogueLike")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MazeRogueLike")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
